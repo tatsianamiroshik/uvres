@@ -1,0 +1,26 @@
+{
+    "name": "David Mccoy",
+    "age": 17,
+    "address": {
+        "street": "Brady Cliff",
+        "city": "Mariafort",
+        "state": "Illinois",
+        "zip": "22826"
+    },
+    "contact": {
+        "phone": "339.960.0407",
+        "servicePhone": "800875668"
+    },
+    "birthday": "2007-23-10",
+    "ip": "222.190.88.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Benefit similar national none under.\nPass seat break family. Summer good as tonight billion hard part three. New every per top.\nGame knowledge explain gas yeah plant father.\nCarry impact understand.",
+        "bio": "Realize at institution interest hospital matter writer.\nEast western recently campaign think nor. Outside participant student claim walk base war again."
+    },
+    "apiKey": "d84a4851854e448f1e43af4a0e5e915378a4638d1b163fad71c21a580ecfe33e",
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
