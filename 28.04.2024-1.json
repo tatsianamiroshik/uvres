@@ -1,0 +1,26 @@
+{
+    "name": "Samuel Wilkerson",
+    "age": 12,
+    "address": {
+        "street": "Tami Spurs",
+        "city": "Christopherfort",
+        "state": "Colorado",
+        "zip": "42377"
+    },
+    "contact": {
+        "phone": "+1-422-442-8107x5798",
+        "servicePhone": "800117072"
+    },
+    "birthday": "2012-14-06",
+    "ip": "15.171.188.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Whole modern evidence. Half true morning instead. Trade itself page entire.",
+        "bio": "Improve myself should page. Huge individual gun peace section make.\nCar knowledge minute machine service show week. Position official street.\nMoment window note involve end tonight part."
+    },
+    "apiKey": "6b1878b3fd1fad82f3990d3f118fe798ad61d60dc07bc2d83efa1ebcaa4b7c01",
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
