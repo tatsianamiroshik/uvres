@@ -1,0 +1,26 @@
+{
+    "name": "Christopher Kim",
+    "age": 114,
+    "address": {
+        "street": "Morales Overpass",
+        "city": "Alyssaborough",
+        "state": "Maine",
+        "zip": "21982"
+    },
+    "contact": {
+        "phone": "001-976-405-9187",
+        "servicePhone": "800114491"
+    },
+    "birthday": "1910-12-07",
+    "ip": "65.236.98.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Grow which people many pressure. Four positive military. You reveal itself end hope key.\nMaterial sure response traditional kid. Conference west outside color road.",
+        "bio": "Before society interest across. Value song himself. Test office close plant eat pretty development."
+    },
+    "apiKey": "404632a206f7eddb7b8e139a8616c539eac770be93234a9b1863e8529118396a",
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
