@@ -1,0 +1,26 @@
+{
+    "name": "Joanne Estes",
+    "age": 95,
+    "address": {
+        "street": "Derek Streets",
+        "city": "Susanport",
+        "state": "Maine",
+        "zip": "38429"
+    },
+    "contact": {
+        "phone": "7188471466",
+        "servicePhone": "800228736"
+    },
+    "birthday": "1929-19-06",
+    "ip": "3.247.3.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Lawyer turn too care remember include free. Happen authority with deep huge. Response eat condition kind down whom.\nStill environmental nothing way.",
+        "bio": "Vote drug matter if similar strategy. Save science book hundred design.\nRole conference help something look total push beat. Sell across beat. Capital relate important."
+    },
+    "apiKey": "198b55fea611d407494308e406c937e1a56884aa040cc6a3990abe3fffd809d4",
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
