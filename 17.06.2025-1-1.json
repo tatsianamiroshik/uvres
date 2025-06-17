@@ -1,0 +1,25 @@
+{
+    "name": "Ana King",
+    "age": 106,
+    "address": {
+        "street": "Yvonne Walk",
+        "city": "Juliemouth",
+        "state": "Wisconsin",
+        "zip": "39083"
+    },
+    "contact": {
+        "phone": "+1-728-595-0511x51778",
+        "servicePhone": "800048142"
+    },
+    "birthday": "1919-04-12",
+    "ip": "92.185.200.9",
+    "foo": "bar",
+    "profile": {
+        "about": "Director drug magazine analysis affect heart have. Piece which apply series free message although ever. Seem nor per size left during.",
+        "bio": "According shake probably family. Dinner allow difficult focus lead want wall past.\nOnly his learn station. Power stage ever by foreign expert."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
