@@ -1,0 +1,25 @@
+{
+    "name": "Cindy Clark",
+    "age": 95,
+    "address": {
+        "street": "Kara Islands",
+        "city": "South Tara",
+        "state": "West Virginia",
+        "zip": "21075"
+    },
+    "contact": {
+        "phone": "(972)335-5684",
+        "servicePhone": "800428630"
+    },
+    "birthday": "1930-22-06",
+    "ip": "186.112.73.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Small inside at herself particular couple. Room reflect minute common population pass in.",
+        "bio": "Yourself wonder heart report myself particular perhaps. Deep wide education show use ground.\nSong seem feeling PM important during. Throw thousand what agent area scene."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
